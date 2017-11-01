@@ -16,6 +16,6 @@ This workshopper has 11 exercises that cover the most important aspects of HTML.
 
 ## Desarrollo
 
-![Captura-git](Captura-git.png)
+![Captura-git](Captura_git.png)
 
-![Captura-linea-de-comando](Captura-linea-de-comando.png)
+![Captura-linea-de-comando](Captura_linea_de_comando.png)
